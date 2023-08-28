@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yagi Uda Private Limited(R)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: black;
+            text-align: center;
+            padding: 10px;
+        }
+        nav {
+            background-color: #444;
+            color: black;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #666;
+            color: black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Yagi Uda Private Limited</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>About Us</h1>
+        <p>CEO's Message
+        <h2>Dr Sourabh Harti</h2>
+        
+        Established in 2023 , with intention of imparting quality DC motors , our company  has been a hub of many activities of excellence and achievements both by CEO and staff. We are committed to provide better Services ambience and strive for multifaceted development of clients. The website would provide an effective platform to showcase all such details.
+     We are sure that,Yagi Uda will reach newer heights in the days to come with cooperation from all stakeholders.
+        <h1>Team Yagi Uda Private Limited</h1>
+        <h3>Sudeep Naik</h3>
+        <h3>Ashish Galatagi</h3>
+        <h3>Shrikantgouda Balsegadde</h3>
+        <h3>Amey Hirikude</h3>
+        <h3>Shreyas Goudar</h3>
+        <h3>Vivek Palankar</h3>
+        </p>
+        <h1>Services</h1>
+        <p>We provide services regarding your daily life problems and we manufacture DC Motors which produces the larger torque and one of our product is displayed below
+        <h1>Get in touch</h1>
+        <address>
+          <h1>Address</h1>
+          <h4>Room No: NF 04
+          KLS VDIT Boys Hostel 2
+          Haliyal
+          Uttar Kannada 581329</h4>
+          <h1>Email</h1>
+          <h4>yagiuda2023@gmail.com</h4>
+          <h1>Phone</h1>
+          <h4>7337898733
+              9980090805</h4>
+          
+          <p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Yagi Uda Private Limited. All rights reserved.</p>
+    </footer>
+</body>
+</html>
